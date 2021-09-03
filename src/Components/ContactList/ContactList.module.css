@@ -1,0 +1,23 @@
+.list {
+    text-align: center;
+    list-style: none;
+}
+.item{
+    color: #000000;
+    margin-top: 10px;
+    font-size: x-large;
+}
+.button{
+    color: #2F4F4F;
+    margin-left: 15px;
+    padding: 8px 20px;
+    border-radius: 5px;
+    border-color: #2F4F4F;
+    }
+button:hover,
+button:focus {
+    transform: scale(1.08);
+    border: 1px solid #2F4F4F;
+    outline: none;
+    box-shadow: 0 7px 14px 4px #708090;
+}
